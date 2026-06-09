@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
 
@@ -18,7 +19,7 @@
                 margin: auto;
                 font-family: Georgia, serif;
                 font-size: 21px;
-               font-size: 13px; 
+               font-size: 13px;
             }
         </style>
     </head>
@@ -44,9 +45,16 @@
             <li>Evacuate Holding Tank Vessel</li>
             <li>Spray and Sanitize Seats, Walls and Floor Surfaces</li>
             <li>Replenish Paper Products and Hand Sanitizers</li>
-            
         </ul>
+    </header>
 
-
-        
+        <ul>
+            <p> I graduated from highschool, participaing in all the 
+                enviormental classes! I  went to trade school for 
+                Crapology. I also completed Pet Smarts certification in 
+                Aquatic Turtle Tank Tending. I am a reliable and flexible worker. 
+            </p>
+        </ul>
+    </body>
+    </html>
 </header>
