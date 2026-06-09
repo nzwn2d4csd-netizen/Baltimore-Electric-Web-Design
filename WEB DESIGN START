@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+    <head>
+        <style>
+            body {
+                background-color: rgb(59, 53, 142); 
+                color: rgb (126, 129, 130);
+                width: fit-content;
+                margin: auto;
+                font-family: Georgia, serif;
+                font-size: 21px;
+               font-size: 13px; 
+            }
+        </style>
+    </head>
+<header>
+    <h1> Bob Teal </h1>
+    </header>
+    <img src="/Users/robertbaltimore/Web Design/resume photo/AvatarMaker.png"" alt="Bob Teal Rendering" />>
+    <h2> Experience and Trained Skills</h2>
+        <p> Creative Design Towel Consultant 03/81 to 09/90</p>
+        <ul>
+            <li>Creation of Characters or Images</li>
+            <li>Acquisition of Materials or Fabrics</li>
+            <li>Selections of Ink, Dyes and Threads</li>
+        </ul>
+        <p>Aquatic Turtle Tank Tender 10/90 to 06/99</p>
+        <ul>
+            <li>Flush and Filter Water Medium</li>
+            <li>Scrub and Brush all Surfaces</li>
+            <li>Treat Water and Trim Plant Biology</li>
+        </ul>
+        <p>Honey Bum Crapologist 07/99 to 01/20</p>
+        <ul>
+            <li>Evacuate Holding Tank Vessel</li>
+            <li>Spray and Sanitize Seats, Walls and Floor Surfaces</li>
+            <li>Replenish Paper Products and Hand Sanitizers</li>
+            
+        </ul>
+
+
+        
+</header>
